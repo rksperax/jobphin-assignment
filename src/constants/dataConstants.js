@@ -1,0 +1,1 @@
+export const APPLY_TYPES = ['Quick apply', 'External apply'];
